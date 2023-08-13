@@ -1,13 +1,16 @@
 [
   {
+    "id": 1,
     "quote": "The Guru Learnings",
     "author": "The Guru"
   },
   {
+    "id": 2,
     "quote": "Assurance in being",
     "author": "Guru Learnings"
   },
   {
+    "id": 3,
     "quote": "Experience the power within",
     "author": "Kundalini Shakti"
   }
